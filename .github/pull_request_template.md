@@ -56,4 +56,4 @@ Uncomment this section if a screenshot is needed.
 
 <!-- Remove any of the following that do not apply. -->
 
-- [ ] Add a tag or create a release.
+- [ ] Create a release.
