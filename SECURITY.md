@@ -1,5 +1,5 @@
 # cisagov Security Policy #
 
-Please see the
-[CISA Vulnerability Disclosure Policy](https://www.us-cert.gov/vulnerability-disclosure-policy)
-for details about how we handle vulnerability disclosure.
+https://www.us-cert.gov/vulnerability-disclosure-policy
+
+KNOW YOUR CYBER BASICS •Enable multi-factor authentication (MFA). Enable multi-factor authentication (MFA) to ensure that the only person who has access to your account is you. Use it for email, banking, social media, and any other password-protected service. If MFA is an option, enable it by using a trusted mobile device, such as your smartphone, an authenticator app, or a secure token—a small physical device that can hook onto your key ring. •Shake up your password protocol. You should consider using the longest password or passphrase permissible. Use strong and unique passwords for different sites to prevent cyber criminals from gaining access to these accounts and protect you in the event of a breach. Use password managers to generate and remember different passwords for each of your accounts. •Stay up to date. Keep your software updated with the latest version available. Maintain your security settings to keep your information safe by turning on automatic updates so you do not have to think about it, and set your security software to run regular scans.
